@@ -2,7 +2,7 @@
 dependencies: []
 
 galaxy_info:
-  role_name: java
+  role_name: git
   author: Aaron W. West
   description: Ansible role that installs git
   min_ansible_version: 2.5
